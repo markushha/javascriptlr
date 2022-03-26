@@ -26,4 +26,3 @@ console.log(isChecked || isClosed);
 console.log(isChecked && !isClosed);
 
 // && - и это и то...; || или это или то...
-
